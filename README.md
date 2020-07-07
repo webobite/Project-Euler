@@ -18,7 +18,7 @@ This challange is adopted from [freecodecamp](https://www.freecodecamp.org/learn
 
 ```
 Not Passed : Problem not tried
-Passed : Problem Completed
+Passed : Problem Completed [(DD - MM - YYYY)
 ```
 <hr>
 
